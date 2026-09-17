@@ -1003,7 +1003,7 @@ The **No.** column runs consecutively from **JSP-000001** to **JSP-001022** in d
 | JSP-000881 | [How many integer solutions satisfy the specified additive equation involving the sum-of-divisors function?](catalog-0801-0900.md#JSP-000881) | Open | No | No | Unavailable |
 | JSP-000882 | [How large can an integer-interval subset be if no element divides two other elements?](catalog-0801-0900.md#JSP-000882) | Open | No | No | Unavailable |
 | JSP-000883 | [Which starting points permit a binomial coefficient to be divisible by all but one term of the specified descending consecutive-integer block?](catalog-0801-0900.md#JSP-000883) | Open | No | No | Unavailable |
-| JSP-000884 | [How does an integer's totient compare with the totient of the integer minus its totient?](catalog-0801-0900.md#JSP-000884) | Solved | No | No | Unavailable |
+| JSP-000884 | [How does an integer's totient compare with the totient of the integer minus its totient?](catalog-0801-0900.md#JSP-000884) | Solved | Yes | No | Unavailable |
 | JSP-000885 | [Are there infinitely many primes that are one more than a power of two times another prime?](catalog-0801-0900.md#JSP-000885) | Open | No | No | Unavailable |
 | JSP-000886 | [For a planar point set of minimum separation one, how large an independent set must its unit-distance graph have?](catalog-0801-0900.md#JSP-000886) | Open | No | No | Unavailable |
 | JSP-000887 | [Must a graph of uncountable chromatic number contain a countable subgraph that remains connected after every finite vertex deletion?](catalog-0801-0900.md#JSP-000887) | Open | No | No | Unavailable |
