@@ -192,7 +192,7 @@ The **No.** column runs consecutively from **JSP-000001** to **JSP-001022** in d
 | JSP-000105 | [Distinct distances determined by planar point sets](catalog-0101-0200.md#JSP-000105) | Open | No | No | Unavailable |
 | JSP-000106 | [unit distance problem](catalog-0101-0200.md#JSP-000106) | Solved | Yes | Yes | Unclaimed |
 | JSP-000107 | [Are there essentially different geometric configurations minimizing the number of distinct distances among planar points?](catalog-0101-0200.md#JSP-000107) | Open | No | No | Unavailable |
-| JSP-000108 | [If every point has many neighbors at one common distance from it, how large a count can be guaranteed at every point? Is it smaller than every fixed positive power of the number of points?](catalog-0101-0200.md#JSP-000108) | Solved | No | No | Unavailable |
+| JSP-000108 | [If every point has many neighbors at one common distance from it, how large a count can be guaranteed at every point? Is it smaller than every fixed positive power of the number of points?](catalog-0101-0200.md#JSP-000108) | Solved | Yes | No | Unavailable |
 | JSP-000109 | [What is the maximum number of unit-distance pairs among the vertices of a convex polygon?](catalog-0101-0200.md#JSP-000109) | Open | No | No | Unavailable |
 | JSP-000110 | [Does every convex polygon have a vertex from which no distance to the other vertices repeats too often?](catalog-0101-0200.md#JSP-000110) | Open | No | No | Unavailable |
 | JSP-000111 | [How many distinct distances must a planar point set in general position determine?](catalog-0101-0200.md#JSP-000111) | Open | No | No | Unavailable |
