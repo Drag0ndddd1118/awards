@@ -377,7 +377,7 @@ The **No.** column runs consecutively from **JSP-000001** to **JSP-001022** in d
 | JSP-000285 | [Must the finite subset sums of a positive-density integer multiset contain an infinite arithmetic progression?](catalog-0201-0300.md#JSP-000285) | Solved | No | No | Unavailable |
 | JSP-000286 | [If an integer set has at least square-root-scale size in large intervals, must its finite subset sums contain an infinite arithmetic progression?](catalog-0201-0300.md#JSP-000286) | Solved | No | No | Unavailable |
 | JSP-000287 | [How do the thresholds for representing all large integers by distinct-element sums compare for the sequences built from adjacent powers?](catalog-0201-0300.md#JSP-000287) | Open | No | No | Unavailable |
-| JSP-000288 | [Must ratios of consecutive terms in the specified minimal stably complete sequences converge to the golden ratio?](catalog-0201-0300.md#JSP-000288) | Solved | No | No | Unavailable |
+| JSP-000288 | [Must ratios of consecutive terms in the specified minimal stably complete sequences converge to the golden ratio?](catalog-0201-0300.md#JSP-000288) | Solved | Yes | No | Unavailable |
 | JSP-000289 | [Can every tail of a nearly doubling sequence have finite subset sums covering a set of integers of density one?](catalog-0201-0300.md#JSP-000289) | Solved | Yes | Yes | Unclaimed |
 | JSP-000290 | [How does deleting a prescribed number of elements affect a set's ability to represent all large integers as sums of distinct elements?](catalog-0201-0300.md#JSP-000290) | Open | No | No | Unavailable |
 | JSP-000291 | [When do distinct-element sums of a sequence of floors of exponential values represent every sufficiently large integer?](catalog-0201-0300.md#JSP-000291) | Open | No | No | Unavailable |
