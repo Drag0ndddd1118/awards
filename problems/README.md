@@ -260,7 +260,7 @@ The **No.** column runs consecutively from **JSP-000001** to **JSP-001022** in d
 | JSP-000173 | [How many short arithmetic progressions in an integer set force a longer arithmetic progression?](catalog-0101-0200.md#JSP-000173) | Solved | No | No | Unavailable |
 | JSP-000174 | [How much can forbidding several subgraphs reduce the extremal edge count compared with forbidding just one of them?](catalog-0101-0200.md#JSP-000174) | Solved | Yes | Yes | Unclaimed |
 | JSP-000175 | [Is the Ramsey number of a high-dimensional hypercube bounded by a constant times its number of vertices?](catalog-0101-0200.md#JSP-000175) | Open | No | No | Unavailable |
-| JSP-000176 | [How many edges can a graph have if it contains no regular subgraph of a prescribed degree?](catalog-0101-0200.md#JSP-000176) | Solved | No | No | Unavailable |
+| JSP-000176 | [How many edges can a graph have if it contains no regular subgraph of a prescribed degree?](catalog-0101-0200.md#JSP-000176) | Solved | Yes | No | Unavailable |
 | JSP-000177 | [What is the exponential growth rate of the number of vertices needed to force a monochromatic triangle as the number of edge colors increases?](catalog-0101-0200.md#JSP-000177) | Solved | Yes | Yes | Unclaimed |
 | JSP-000178 | [Can the edges of every finite graph be partitioned into linearly many cycles and single edges, in terms of its number of vertices?](catalog-0101-0200.md#JSP-000178) | Open | No | No | Unavailable |
 | JSP-000179 | [How large can a subset of an integer interval be if no element is the average of some other elements?](catalog-0101-0200.md#JSP-000179) | Solved | No | No | Unavailable |
